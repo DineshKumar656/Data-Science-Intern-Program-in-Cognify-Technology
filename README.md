@@ -89,3 +89,13 @@ For the final data storytelling, I utilized a **Hybrid BI Approach**:
 
 ---
 *Verified Project for Cognifyz Technologies Data Science Internship.*
+
+DEMO DASHBOARD ANALYSIS:
+<img width="1301" height="739" alt="Screenshot 2025-11-29 103657" src="https://github.com/user-attachments/assets/b5c8b68f-1992-4f73-ae36-ee9ce6bcd4da" />
+<img width="1302" height="745" alt="Screenshot 2025-11-29 103729" src="https://github.com/user-attachments/assets/4ab75f47-f8f5-4d93-b9f8-8f8745cda4c1" />
+<img width="1297" height="744" alt="Screenshot 2025-11-29 103752" src="https://github.com/user-attachments/assets/825d7a91-bd94-47ba-910a-d797ea4809ab" />
+<img width="1295" height="742" alt="Screenshot 2025-11-29 103853" src="https://github.com/user-attachments/assets/a8f692ca-c53f-4540-9f77-a47d0022e783" />
+<img width="1786" height="1077" alt="Screenshot 2025-11-29 104101" src="https://github.com/user-attachments/assets/b3df5d5c-a478-4a87-8299-7e523fbd8d2a" />
+<img width="1800" height="1079" alt="Screenshot 2025-11-29 104131" src="https://github.com/user-attachments/assets/c13cfe73-9fde-4e68-afc3-9e37dc039fbe" />
+<img width="1799" height="1079" alt="Screenshot 2025-11-29 104140" src="https://github.com/user-attachments/assets/37a2eb28-d4c9-4ca8-a989-f9c7e904daa6" />
+
